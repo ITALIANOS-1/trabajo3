@@ -178,3 +178,5 @@ country_combobox.pack(padx=10, pady=10)
 
 # Ejecutar la aplicación
 root.mainloop()
+#esto es una prueba para agregar el archivo csv y despues agregarlo al codigo normal 
+
